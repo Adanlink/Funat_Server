@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Company>Nothing Productions</Company>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MessagePack.Annotations" Version="2.0.323" />
+    </ItemGroup>
+
+</Project>
