@@ -1,4 +1,4 @@
-#Funat Server
+# Funat Server
 ## Description
 This repository saves the server made for a Project of Investigation for my highschool.
 It is based on [SaltyEmu](https://github.com/BlowaXD/SaltyEmu "SaltyEmu").
