@@ -1,4 +1,5 @@
 # Funat Server
+[![Build Status](https://travis-ci.com/Adanlink/Funat_Server.svg?branch=master "Build Status")](https://travis-ci.com/Adanlink/Funat_Server "Build Status")
 ## Description
 This repository saves the server made for a Project of Investigation for my highschool.
 It is based on [SaltyEmu](https://github.com/BlowaXD/SaltyEmu "SaltyEmu").
