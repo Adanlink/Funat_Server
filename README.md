@@ -19,7 +19,7 @@ This configuration file is different for each server, and can be found in the "C
 Once the server gets the correct credentials it should set up the database automatically and not show any error.
 ### Important notes
 #### Login Server using too much resources
-If you think that the Login Server is using too much resources define the ProcessorsToUse to the number of logical processors you want it to use for Hashing the passwords.
+If you think that the Login Server is using too much resources define the ProcessorsToUse to the number of logical processors you want it to use for Hashing the passwords (can be found in the Config folder YAML).
 
 #### World Server with increasing memory usage without meaning
 World Server has a memory leak relationated with the Session of players, causing on the long run to "explode", so watchout with making a lot of connections without restarting the World Server.
