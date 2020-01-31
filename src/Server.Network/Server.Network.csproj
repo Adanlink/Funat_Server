@@ -12,7 +12,7 @@
     <PackageReference Include="DotNetty.Codecs" Version="0.6.0" />
     <PackageReference Include="DotNetty.Common" Version="0.6.0" />
     <PackageReference Include="DotNetty.Transport" Version="0.6.0" />
-    <PackageReference Include="MessagePack" Version="2.0.323" />
+    <PackageReference Include="MessagePack" Version="2.1.80" />
   </ItemGroup>
 
   <ItemGroup>
